@@ -1,4 +1,4 @@
-#                                                                                                               Hi👋,I'm Sandesh
+<h1 align="center">Hi 👋, I'm Sandesh</h1>
 
 # 💫 About Me:
  💬 Ask me about MERN Stack<br><br>📫 Feel free to reach me out sandeshjadhav2002@gmail.com
