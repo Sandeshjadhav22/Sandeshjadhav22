@@ -2,7 +2,7 @@
 <h4 align="center">A Student & Fullstack developer</h3>
 
 # 💫 About Me:
- 💬 Ask me about MERN Stack<br><br>📫 Feel free to reach me out sandeshjadhav2002@gmail.com
+ 💬 Developer, OSS Contributor, Gamer and Student. I play read, code and travel for fun.<br><br>📫 Feel free to reach me out sandeshjadhav2002@gmail.com
 
 
 ## 🌐 Socials:
