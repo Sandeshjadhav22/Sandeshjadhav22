@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh</h1>
-<h4 align="center">A Student & Fullstack developer</h3>
+<h4 align="center">I'm a full-stack developer with a passion for building beautiful and functional web applications.</h3>
 
 # 💫 About Me:
  💬 Developer, OSS Contributor, Gamer and Student. I play read, code and travel for fun.<br><br>📫 Feel free to reach me out sandeshjadhav2002@gmail.com
